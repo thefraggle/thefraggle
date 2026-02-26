@@ -2,13 +2,13 @@
 
 ### Papi 1.0 | Generation X | T-Shirtträger | Kaffeetrinker | Seriengucker | Konzertgänger | Tattooträger | Hobby-Gamer
 
-Ich bin leidenschaftlicher Tüftler und entwickle aktuell mein erstes öffentliches Projekt: **FamWake** – ein smarter Familienwecker, der den Alltag entspannter macht.
+Ich bin leidenschaftlicher Tüftler und entwickle aktuell mein erstes öffentliches Projekt: **FamWake - Familienwecker** – ein smarter Familienwecker, der den Alltag entspannter macht.
 
 ---
 
 ### 🚀 Woran ich gerade arbeite
-- **[FamWake App](https://github.com/thefraggle/familienwecker)**: Eine Android-App (Kotlin), die Familien hilft, besser in den Tag zu starten.
-- **FamWake Landingpage**: Die visuelle Visitenkarte für das Projekt ([www.familienwecker.de](https://www.familienwecker.de)).
+- **[FamWake - Familienwecker App](https://github.com/thefraggle/familienwecker)**: Eine Android-App (Kotlin), die Familien hilft, besser in den Tag zu starten.
+- **FamWake - Familienwecker Landingpage**: Die visuelle Visitenkarte für das Projekt ([www.familienwecker.de](https://www.familienwecker.de)).
 
 ---
 
