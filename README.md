@@ -8,7 +8,7 @@ Ich bin leidenschaftlicher Tüftler und entwickle aktuell mein erstes öffentlic
 
 ### 🚀 Woran ich gerade arbeite
 - **[FamWake App](https://github.com/thefraggle/familienwecker)**: Eine Android-App (Kotlin), die Familien hilft, besser in den Tag zu starten.
-- **FamWake Landingpage**: Die visuelle Visitenkarte für das Projekt (aktuell im privaten Repo).
+- **FamWake Landingpage**: Die visuelle Visitenkarte für das Projekt ([www.familienwecker.de](https://www.familienwecker.de)).
 
 ---
 
@@ -23,10 +23,6 @@ Ich bin leidenschaftlicher Tüftler und entwickle aktuell mein erstes öffentlic
 ---
 
 ### 💬 Lass uns vernetzen!
-Du findest mich auf verschiedenen Plattformen:
-👉 **[Linktree (thefraggle)](https://linktr.ee/thefraggle)**
-
-Oder direkt hier:
 [LinkedIn](https://www.linkedin.com/in/daniel-notthoff) | [Bluesky](https://bsky.app/profile/thefraggle.bsky.social) | [Instagram](https://instagram.com/dnotthoff)
 
 ---
