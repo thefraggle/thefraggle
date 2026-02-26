@@ -5,13 +5,13 @@
 
 ### Dad 1.0 | Generation X | T-Shirt wearer | Coffee drinker | Binge watcher | Concert goer | Tattoo wearer | Hobby Gamer
 
-I am a passionate tinkerer and currently developing my first public project: **FamWake - Familienwecker** – a smart alarm clock that makes the morning routine for families more relaxed.
+I am a passionate tinkerer and currently developing my first public project: **FamWake - Family Alarm** – a smart alarm clock that makes the morning routine for families more relaxed.
 
 ---
 
 ### 🚀 What I'm currently working on
-- **[FamWake - Familienwecker App](https://github.com/thefraggle/familienwecker)**: An Android app (Kotlin) that helps families start their day better.
-- **FamWake - Familienwecker Landing Page**: The visual business card for the project ([www.familienwecker.de](https://www.familienwecker.de)).
+- **[FamWake - Family Alarm App](https://github.com/thefraggle/familienwecker)**: An Android app (Kotlin) that helps families start their day better.
+- **FamWake - Family Alarm Landing Page**: The visual business card for the project ([www.familienwecker.de](https://www.familienwecker.de)).
 
 ---
 
