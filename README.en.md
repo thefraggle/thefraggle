@@ -5,7 +5,7 @@
 
 ### Dad 1.0 | Generation X | T-Shirt wearer | Coffee drinker | Binge watcher | Concert goer | Tattoo wearer | Hobby Gamer
 
-I am a passionate tinkerer and currently developing my first public project: **FamWake - Familienwecker** – a smart family alarm clock that makes daily life more relaxed.
+I am a passionate tinkerer and currently developing my first public project: **FamWake - Familienwecker** – a smart alarm clock that makes the morning routine for families more relaxed.
 
 ---
 

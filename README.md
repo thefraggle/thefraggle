@@ -5,7 +5,7 @@
 
 ### Papi 1.0 | Generation X | T-Shirtträger | Kaffeetrinker | Seriengucker | Konzertgänger | Tattooträger | Hobby-Gamer
 
-Ich bin leidenschaftlicher Tüftler und entwickle aktuell mein erstes öffentliches Projekt: **FamWake - Familienwecker** – ein smarter Familienwecker, der den Alltag entspannter macht.
+Ich bin leidenschaftlicher Tüftler und entwickle aktuell mein erstes öffentliches Projekt: **FamWake - Familienwecker** – ein smarter Wecker, der den morgendlichen Alltag für Familien entspannter macht.
 
 ---
 
