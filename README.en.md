@@ -3,9 +3,10 @@
 [Deutsche Version](README.md)
 
 
-### Dad 1.0 | Generation X | T-Shirt wearer | Coffee drinker | Binge watcher | Concert goer | Tattoo wearer | Hobby Gamer
+### Dad 1.0 | Generation X | T-Shirt & Tattoos | Coffee drinker
 
-I am a passionate tinkerer and currently developing my first public project: **FamWake Family Alarm** – a smart alarm clock that makes the morning routine for families more relaxed.
+Between home office, rock concerts and gaming sessions, my heart beats for tinkering and nerding out. I am currently developing the FamWake Family Alarm, a smart alarm clock app that replaces a family's morning stress with structure and relaxation.
+When I'm not tweaking new features, you'll probably find me at the next festival or with a controller in my hand. :)
 
 ---
 
