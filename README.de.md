@@ -1,18 +1,17 @@
-# Hi! I'm Daniel. 👋
+# Moin! Ich bin Daniel. 👋
 
-[Deutsche Version](README.md)
+[English version](README.md)
 
 
-### Dad 1.0 | Generation X | T-Shirt & Tattoos | Coffee drinker
+### Papi 1.0 | Generation X | T-Shirt & Tattoos | Kaffeetrinker
 
-Between home office, rock concerts and gaming sessions, my heart beats for tinkering and nerding out. I am currently developing the FamWake Family Alarm, a smart alarm clock app that replaces a family's morning stress with structure and relaxation.
-When I'm not tweaking new features, you'll probably find me at the next festival or with a controller in my hand. :)
+Zwischen Home-Office, Rock-Konzerten und Gaming-Sessions schlägt mein Herz fürs Tüfteln und nerden. Aktuell entwickle ich den FamWake Familienwecker, eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 
+Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich auf dem nächsten Festival oder mit einem Controller in der Hand. :)
 
 ---
 
-### 🚀 What I'm currently working on
-- **[FamWake Family Alarm App](https://github.com/thefraggle/familienwecker)**: An Android app (Kotlin) that helps families start their day better.
-- **FamWake Family Alarm Landing Page**: The visual business card for the project ([familienwecker.de](https://familienwecker.de)).
+### 🚀 Woran ich gerade arbeite
+- **FamWake Familienwecker Landingpage**: Die visuelle Visitenkarte für das Projekt ([familienwecker.de](https://familienwecker.de)).
 
 ---
 
@@ -26,14 +25,14 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 
 ---
 
-### 💬 Let's connect!
+### 💬 Lass uns vernetzen!
 [LinkedIn](https://www.linkedin.com/in/daniel-notthoff) | [Bluesky](https://bsky.app/profile/thefraggle.bsky.social) | [Instagram](https://instagram.com/dnotthoff)
 
 ---
 
-### ✊ Stance
+### ✊ Haltung
 **#fckafd #noafd #fcknzs**
-No place for intolerance. 🏳️‍🌈
+Kein Platz für Intoleranz. 🏳️‍🌈
 
 ---
 
