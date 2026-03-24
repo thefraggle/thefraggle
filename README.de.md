@@ -11,6 +11,7 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 ---
 
 ### 🚀 Woran ich gerade arbeite
+- **FamWake Familienwecker App**: Eine Android-App (Kotlin), die Familien hilft, besser in den Tag zu starten.
 - **FamWake Familienwecker Landingpage**: Die visuelle Visitenkarte für das Projekt ([familienwecker.de](https://familienwecker.de)).
 
 ---

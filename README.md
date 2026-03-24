@@ -11,6 +11,7 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ---
 
 ### 🚀 What I'm currently working on
+- **FamWake Family Alarm App**: An Android app (Kotlin) that helps families start their day better.
 - **FamWake Family Alarm Landing Page**: The visual business card for the project ([familienwecker.de](https://familienwecker.de)).
 
 ---
