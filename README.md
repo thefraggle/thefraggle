@@ -11,8 +11,10 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ---
 
 ### 🚀 What I'm currently working on
-- **FamWake Family Alarm App**: An Android app (Kotlin) that helps families start their day better.
-- **FamWake Family Alarm Landing Page**: The visual business card for the project ([familienwecker.de](https://familienwecker.de)).
+- **FamWake Family Alarm App**: An Android app (Kotlin) that helps families start their day better.  
+  [![Download on Google Play](https://img.shields.io/badge/Google_Play-Download_Famwake-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)
+- **FamWake Family Alarm Landing Page**: The visual business card for the project.  
+  🌐 **[Visit familienwecker.de for all information about the app](https://familienwecker.de)**
 
 ---
 
@@ -23,11 +25,16 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 💬 Let's connect!
-[LinkedIn](https://www.linkedin.com/in/daniel-notthoff) | [Bluesky](https://bsky.app/profile/thefraggle.bsky.social) | [Instagram](https://instagram.com/dnotthoff)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-notthoff)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/thefraggle.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dnotthoff)
 
 ---
 
