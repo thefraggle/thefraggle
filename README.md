@@ -13,6 +13,8 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ### 🚀 What I'm currently working on
 - **FamWake Family Alarm App**: An Android app (Kotlin) that helps families start their day better.  
   [![Download on Google Play](https://img.shields.io/badge/Google_Play-Download_Famwake-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)
+- **Pulse**: A full-stack web application for live polling and wordclouds.  
+  🌐 **[Visit pulse.goork.de to try it out](https://pulse.goork.de)**
 - **FamWake Family Alarm Landing Page**: The visual business card for the project.  
   🌐 **[Visit familienwecker.de for all information about the app](https://familienwecker.de)**
 
@@ -24,6 +26,9 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
