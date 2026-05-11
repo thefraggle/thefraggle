@@ -13,10 +13,10 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ### 🚀 What I'm currently working on
 - **FamWake Family Alarm App**: An Android app (Kotlin) that helps families start their day better.  
   [![Download on Google Play](https://img.shields.io/badge/Google_Play-Download_Famwake-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)
-- **Pulse**: A full-stack web application for live polling and wordclouds.  
-  🌐 **[Visit pulse.goork.de to try it out](https://pulse.goork.de)**
 - **FamWake Family Alarm Landing Page**: The visual business card for the project.  
   🌐 **[Visit familienwecker.de for all information about the app](https://familienwecker.de)**
+- **Pulse**: A full-stack web application for live polling and wordclouds.  
+  🌐 **[Visit pulse.goork.de to try it out](https://pulse.goork.de)**
 
 ---
 
