@@ -21,6 +21,10 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 👉 **[Live Demo](https://pulse.goork.de/GHJGCM)** | **[Quellcode](/thefraggle/pulse)**
 
 #### 📱 Apps & Webprojekte
+**[SongFlip](/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
+*Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
+👉 **[APK herunterladen](/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landingpage (songflip.link)](https://songflip.link)** | **[Quellcode](/thefraggle/songflip)**
+
 **FamWake (Familienwecker)** – Eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 🏆 *#3 Daily Winner bei Uneed*  
 *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
 👉 **[Im App Store laden](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landingpage (familienwecker.de)](https://familienwecker.de)**
