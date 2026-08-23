@@ -4,7 +4,7 @@
 
 ### Papi 1.0 | Generation X | T-Shirt & Tattoos | Kaffeetrinker
 
-Zwischen Home-Office, Rock-Konzerten und Gaming-Sessions schlägt mein Herz fürs Tüfteln und Nerden. Aktuell entwickle ich den FamWake Familienwecker, eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 
+Zwischen Home-Office, Rock-Konzerten und Gaming-Sessions schlägt mein Herz fürs Tüfteln und Nerden. Aktuell entwickle ich SongFlip, einen automatischen Zero-Click Musik-Link-Konverter für Android, sowie den FamWake Familienwecker, eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. Dabei bin ich ständig auf der Suche nach neuen Ideen und baue an weiteren Projekten.
 Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich auf dem nächsten Festival oder mit einem Controller in der Hand. :)
 
 ---

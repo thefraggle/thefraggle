@@ -4,7 +4,7 @@
 
 ### Dad 1.0 | Generation X | T-Shirt & Tattoos | Coffee drinker
 
-Between home office, rock concerts and gaming sessions, my heart beats for tinkering and nerding out. I am currently developing the FamWake Family Alarm, a smart alarm clock app that replaces a family's morning stress with structure and relaxation.
+Between home office, rock concerts and gaming sessions, my heart beats for tinkering and nerding out. I am currently developing SongFlip, an automatic, zero-click music link redirector for Android, and FamWake Family Alarm, a smart alarm clock app that replaces a family's morning stress with structure and relaxation. I'm constantly exploring fresh ideas and tinkering on new projects.
 When I'm not tweaking new features, you'll probably find me at the next festival or with a controller in my hand. :)
 
 ---
