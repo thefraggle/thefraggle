@@ -25,7 +25,7 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 👉 **[Im App Store laden](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landingpage (familienwecker.de)](https://familienwecker.de)** | **[Quellcode](/thefraggle/famwake)**
 
 **[Pulse](/thefraggle/pulse)** – Eine moderne, selbst-hostbare Mentimeter-Alternative für Live-Umfragen und Wordclouds.  
-*Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
+*Lizenz:* MIT | *Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
 👉 **[Live Demo](https://pulse.goork.de/GHJGCM)** | **[Quellcode](/thefraggle/pulse)**
 
 #### 🌐 Webprojekte
