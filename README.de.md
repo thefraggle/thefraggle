@@ -48,6 +48,12 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 **n8n Automation ("Neo")** – Mein selbstgehosteter Telegram-basierter KI-Assistent „Neo“, gesteuert über 15+ n8n Workflows, GPT-4o und diverse Tools (Mail-Klassifizierung, Kalender-Sync, Web-Recherche).  
 *Stack:* n8n, Node.js, Docker, Nginx Proxy Manager, OpenAI API
 
+**Paperless-ngx** – Selbstgehostetes Dokumenten-Management-System mit automatischer OCR-Texterkennung und Archivierung für die papierlose Organisation.  
+*Stack:* Paperless-ngx, OCR, PostgreSQL, Redis, Docker
+
+**Umami Analytics** – Selbstgehostete, datenschutzfreundliche Web-Analytics-Plattform ohne Cookies oder Consent-Banner für alle eigenen Webprojekte.  
+*Stack:* Umami, Next.js, PostgreSQL, Docker
+
 ---
 
 ### 🛠 Tech Stack & Tools
@@ -63,6 +69,7 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
