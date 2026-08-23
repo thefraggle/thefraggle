@@ -13,22 +13,22 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 
 #### 🔓 Open Source
 **[MapFlip](/thefraggle/mapflip)** – Automatically redirect Apple Maps links to Google Maps on Android. Set up once, then it works invisibly in the background. 🏆 *#2 Daily Winner on Uneed*  
-*Stack:* Kotlin, Jetpack Compose (Material 3)  
+*License:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3)  
 👉 **[Download on Google Play](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[Download APK](/thefraggle/mapflip/releases)** | **[Source Code](/thefraggle/mapflip)**
+
+**[SongFlip](/thefraggle/songflip)** – Automatic, zero-click music link redirector for Android across Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
+*License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
+👉 **[Download APK](/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landing Page (songflip.link)](https://songflip.link)** | **[Source Code](/thefraggle/songflip)**
+
+**[FamWake](/thefraggle/famwake)** (Family Alarm) – A smart alarm clock app designed to replace a family's morning stress with structure and relaxation. 🏆 *#3 Daily Winner on Uneed*  
+*License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
+👉 **[Download on App Store](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Download on Google Play](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landing Page (family-alarm.com)](https://family-alarm.com)** | **[Source Code](/thefraggle/famwake)**
 
 **[Pulse](/thefraggle/pulse)** – A modern, self-hostable Mentimeter alternative for live polling and wordclouds.  
 *Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
 👉 **[Live Demo](https://pulse.goork.de/GHJGCM)** | **[Source Code](/thefraggle/pulse)**
 
-#### 📱 Apps & Web Projects
-**[SongFlip](/thefraggle/songflip)** – Automatic, zero-click music link redirector for Android across Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
-*Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
-👉 **[Download APK](/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landing Page (songflip.link)](https://songflip.link)** | **[Source Code](/thefraggle/songflip)**
-
-**FamWake (Family Alarm)** – A smart alarm clock app designed to replace a family's morning stress with structure and relaxation. 🏆 *#3 Daily Winner on Uneed*  
-*Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
-👉 **[Download on App Store](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Download on Google Play](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landing Page (family-alarm.com)](https://family-alarm.com)**
-
+#### 🌐 Web & Projects
 **[goork.de](https://goork.de)** – My central app and service hub showcasing public and private projects (FamWake, MapFlip, Pulse, Goork.it).  
 *Stack:* Vanilla HTML/CSS/JS (no framework)  
 👉 **[Visit goork.de](https://goork.de)**
