@@ -12,21 +12,21 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 ### 📂 Projekte & Portfolio
 
 #### 🔓 Open Source
-**[SongFlip](/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
+**[SongFlip](https://github.com/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
 *Lizenz:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
-👉 **[APK herunterladen](/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landingpage (songflip.link)](https://songflip.link)** | **[Quellcode](/thefraggle/songflip)**
+👉 **[APK herunterladen](https://github.com/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landingpage (songflip.link)](https://songflip.link)** | **[Quellcode](https://github.com/thefraggle/songflip)**
 
-**[FamWake](/thefraggle/familienwecker)** (Familienwecker) – Eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 🏆 *#3 Daily Winner bei Uneed*  
+**[FamWake](https://github.com/thefraggle/familienwecker)** (Familienwecker) – Eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 🏆 *#3 Daily Winner bei Uneed*  
 *Lizenz:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
-👉 **[Im App Store laden](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landingpage (familienwecker.de)](https://familienwecker.de)** | **[Quellcode](/thefraggle/familienwecker)**
+👉 **[Im App Store laden](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landingpage (familienwecker.de)](https://familienwecker.de)** | **[Quellcode](https://github.com/thefraggle/familienwecker)**
 
-**[MapFlip](/thefraggle/mapflip)** – Leitet Apple-Maps-Links auf Android automatisch an Google Maps weiter. Einmal einrichten, dann läuft es unsichtbar im Hintergrund. 🏆 *#2 Daily Winner bei Uneed*  
+**[MapFlip](https://github.com/thefraggle/mapflip)** – Leitet Apple-Maps-Links auf Android automatisch an Google Maps weiter. Einmal einrichten, dann läuft es unsichtbar im Hintergrund. 🏆 *#2 Daily Winner bei Uneed*  
 *Lizenz:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3)  
-👉 **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[APK herunterladen](/thefraggle/mapflip/releases)** | **[Quellcode](/thefraggle/mapflip)**
+👉 **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[APK herunterladen](https://github.com/thefraggle/mapflip/releases)** | **[Quellcode](https://github.com/thefraggle/mapflip)**
 
-**[Pulse](/thefraggle/pulse)** – Eine moderne, selbst-hostbare Mentimeter-Alternative für Live-Umfragen und Wordclouds.  
+**[Pulse](https://github.com/thefraggle/pulse)** – Eine moderne, selbst-hostbare Mentimeter-Alternative für Live-Umfragen und Wordclouds.  
 *Lizenz:* MIT | *Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
-👉 **[Live Demo](https://pulse.goork.de/GHJGCM)** | **[Quellcode](/thefraggle/pulse)**
+👉 **[Live Demo](https://pulse.goork.de/GHJGCM)** | **[Quellcode](https://github.com/thefraggle/pulse)**
 
 #### 🌐 Webprojekte
 **[goork.de](https://goork.de)** – Mein zentraler App- und Service-Hub für öffentliche und private Projekte (FamWake, MapFlip, Pulse, Goork.it).  
