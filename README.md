@@ -12,17 +12,17 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ### 📂 Featured Projects & Portfolio
 
 #### 🔓 Open Source
-**[MapFlip](/thefraggle/mapflip)** – Automatically redirect Apple Maps links to Google Maps on Android. Set up once, then it works invisibly in the background. 🏆 *#2 Daily Winner on Uneed*  
-*License:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3)  
-👉 **[Download on Google Play](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[Download APK](/thefraggle/mapflip/releases)** | **[Source Code](/thefraggle/mapflip)**
-
 **[SongFlip](/thefraggle/songflip)** – Automatic, zero-click music link redirector for Android across Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
 *License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
 👉 **[Download APK](/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landing Page (songflip.link)](https://songflip.link)** | **[Source Code](/thefraggle/songflip)**
 
-**[FamWake](/thefraggle/famwake)** (Family Alarm) – A smart alarm clock app designed to replace a family's morning stress with structure and relaxation. 🏆 *#3 Daily Winner on Uneed*  
+**[FamWake](/thefraggle/familienwecker)** (Family Alarm) – A smart alarm clock app designed to replace a family's morning stress with structure and relaxation. 🏆 *#3 Daily Winner on Uneed*  
 *License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
-👉 **[Download on App Store](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Download on Google Play](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landing Page (family-alarm.com)](https://family-alarm.com)** | **[Source Code](/thefraggle/famwake)**
+👉 **[Download on App Store](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Download on Google Play](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landing Page (family-alarm.com)](https://family-alarm.com)** | **[Source Code](/thefraggle/familienwecker)**
+
+**[MapFlip](/thefraggle/mapflip)** – Automatically redirect Apple Maps links to Google Maps on Android. Set up once, then it works invisibly in the background. 🏆 *#2 Daily Winner on Uneed*  
+*License:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3)  
+👉 **[Download on Google Play](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[Download APK](/thefraggle/mapflip/releases)** | **[Source Code](/thefraggle/mapflip)**
 
 **[Pulse](/thefraggle/pulse)** – A modern, self-hostable Mentimeter alternative for live polling and wordclouds.  
 *License:* MIT | *Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
