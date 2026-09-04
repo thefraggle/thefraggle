@@ -58,7 +58,7 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 **Umami Analytics** – Self-hosted, privacy-first web analytics platform without cookies or tracking banners across all my web projects.  
 *Stack:* Umami, Next.js, PostgreSQL, Docker
 
-**Aptabase & TeleGoork Analytics** – Self-hosted, privacy-first in-app telemetry for mobile apps backed by ClickHouse & PostgreSQL (`telemetry-apps.goork.de`), aggregated into a custom mobile-first PWA dashboard (`tele.goork.de`).  
+**Aptabase & TeleGoork Analytics** – Self-hosted, privacy-first in-app telemetry for mobile apps backed by ClickHouse & PostgreSQL, aggregated into a custom mobile-first PWA dashboard.  
 *Stack:* Aptabase, ClickHouse, PostgreSQL, Hono, PWA, Docker
 
 ---
