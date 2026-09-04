@@ -4,7 +4,7 @@
 
 ### Dad 1.0 | Generation X | T-Shirt & Tattoos | Coffee drinker
 
-Between home office, rock concerts and gaming sessions, my heart beats for tinkering and nerding out. I am currently developing SongFlip, an automatic, zero-click music link redirector for Android, and FamWake Family Alarm, a smart alarm clock app that replaces a family's morning stress with structure and relaxation. I'm constantly exploring fresh ideas and tinkering on new projects.
+Between home office, rock concerts and gaming sessions, my heart beats for tinkering and nerding out. I am currently developing SongFlip, a cross-platform music link redirector for Android & iOS, FamWake Family Alarm for stress-free morning routines, and MapFlip. I'm constantly exploring fresh ideas and tinkering on new projects.
 When I'm not tweaking new features, you'll probably find me at the next festival or with a controller in my hand. :)
 
 ---
@@ -12,17 +12,17 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 ### 📂 Featured Projects & Portfolio
 
 #### 🔓 Open Source
-**[SongFlip](https://github.com/thefraggle/songflip)** – Automatic, zero-click music link redirector for Android across Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
-*License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
+**[SongFlip](https://github.com/thefraggle/songflip)** – Automatic, zero-click music link redirector for Android & iOS across Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
+*License:* GPL-3.0 | *Stack:* Kotlin Multiplatform (KMP), Jetpack Compose, Swift, SwiftUI, Ktor, Firebase Cloud Functions, Aptabase  
 👉 **[Download APK](https://github.com/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landing Page (songflip.link)](https://songflip.link)** | **[Source Code](https://github.com/thefraggle/songflip)**
 
 **[FamWake](https://github.com/thefraggle/familienwecker)** (Family Alarm) – A smart alarm clock app designed to replace a family's morning stress with structure and relaxation. 🏆 *#3 Daily Winner on Uneed*  
-*License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
+*License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, Aptabase, RevenueCat  
 👉 **[Download on App Store](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Download on Google Play](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landing Page (family-alarm.com)](https://family-alarm.com)** | **[Source Code](https://github.com/thefraggle/familienwecker)**
 
-**[MapFlip](https://github.com/thefraggle/mapflip)** – Automatically redirect Apple Maps links to Google Maps on Android. Set up once, then it works invisibly in the background. 🏆 *#2 Daily Winner on Uneed*  
-*License:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3)  
-👉 **[Download on Google Play](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[Download APK](https://github.com/thefraggle/mapflip/releases)** | **[Source Code](https://github.com/thefraggle/mapflip)**
+**[MapFlip](https://github.com/thefraggle/mapflip)** – Intercepts map links (Apple Maps, Bing, OpenStreetMap, HERE, Waze) on Android and seamlessly redirects them to your favorite navigation app (Google Maps, Waze, Organic Maps, OsmAnd). 🏆 *#2 Daily Winner on Uneed*  
+*License:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3), FOSS Flavor (Zero Permissions) & Play Flavor (Aptabase)  
+👉 **[Download on Google Play](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[Download APK](https://github.com/thefraggle/mapflip/releases)** | **[Landing Page (goork.de/mapflip)](https://goork.de/mapflip/)** | **[Source Code](https://github.com/thefraggle/mapflip)**
 
 **[Pulse](https://github.com/thefraggle/pulse)** – A modern, self-hostable Mentimeter alternative for live polling and wordclouds.  
 *License:* MIT | *Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
@@ -32,6 +32,10 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 **[goork.de](https://goork.de)** – My central app and service hub showcasing public and private projects (FamWake, MapFlip, Pulse, Goork.it).  
 *Stack:* Vanilla HTML/CSS/JS (no framework)  
 👉 **[Visit goork.de](https://goork.de)**
+
+**[goork.it](https://goork.it)** – Lightweight URL shortener featuring custom aliases, auto-expiry, admin dashboard, and n8n API integration.  
+*Stack:* React (Vite), Tailwind CSS v4, Node.js/Express, Prisma (SQLite)  
+👉 **[Visit goork.it](https://goork.it)**
 
 **[notthoff.org](https://notthoff.org)** – My central Linktree-style digital business card and hub with a dark glassmorphism design.  
 *Stack:* Vanilla HTML/CSS/JS (no framework)  
@@ -54,10 +58,14 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 **Umami Analytics** – Self-hosted, privacy-first web analytics platform without cookies or tracking banners across all my web projects.  
 *Stack:* Umami, Next.js, PostgreSQL, Docker
 
+**Aptabase & TeleGoork Analytics** – Self-hosted, privacy-first in-app telemetry for mobile apps backed by ClickHouse & PostgreSQL (`telemetry-apps.goork.de`), aggregated into a custom mobile-first PWA dashboard (`tele.goork.de`).  
+*Stack:* Aptabase, ClickHouse, PostgreSQL, Hono, PWA, Docker
+
 ---
 
 ### 🛠 Tech Stack & Tools
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)

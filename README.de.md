@@ -4,7 +4,7 @@
 
 ### Papi 1.0 | Generation X | T-Shirt & Tattoos | Kaffeetrinker
 
-Zwischen Home-Office, Rock-Konzerten und Gaming-Sessions schlägt mein Herz fürs Tüfteln und Nerden. Aktuell entwickle ich SongFlip, einen automatischen Zero-Click Musik-Link-Konverter für Android, sowie den FamWake Familienwecker, eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. Dabei bin ich ständig auf der Suche nach neuen Ideen und baue an weiteren Projekten.
+Zwischen Home-Office, Rock-Konzerten und Gaming-Sessions schlägt mein Herz fürs Tüfteln und Nerden. Aktuell entwickle ich SongFlip, einen plattformübergreifenden Musik-Link-Konverter für Android & iOS, den FamWake Familienwecker für stressfreie Morgenroutinen sowie MapFlip. Dabei bin ich ständig auf der Suche nach neuen Ideen und baue an weiteren Projekten.
 Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich auf dem nächsten Festival oder mit einem Controller in der Hand. :)
 
 ---
@@ -12,17 +12,17 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 ### 📂 Projekte & Portfolio
 
 #### 🔓 Open Source
-**[SongFlip](https://github.com/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
-*Lizenz:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose (Material 3), OkHttp, Coroutines  
+**[SongFlip](https://github.com/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android & iOS zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
+*Lizenz:* GPL-3.0 | *Stack:* Kotlin Multiplatform (KMP), Jetpack Compose, Swift, SwiftUI, Ktor, Firebase Cloud Functions, Aptabase  
 👉 **[APK herunterladen](https://github.com/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landingpage (songflip.link)](https://songflip.link)** | **[Quellcode](https://github.com/thefraggle/songflip)**
 
 **[FamWake](https://github.com/thefraggle/familienwecker)** (Familienwecker) – Eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 🏆 *#3 Daily Winner bei Uneed*  
-*Lizenz:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, TelemetryDeck, RevenueCat  
+*Lizenz:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, Aptabase, RevenueCat  
 👉 **[Im App Store laden](https://apps.apple.com/app/famwake-family-alarm-clock/id6770643027)** | **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.familienwecker.famwake)** | **[Landingpage (familienwecker.de)](https://familienwecker.de)** | **[Quellcode](https://github.com/thefraggle/familienwecker)**
 
-**[MapFlip](https://github.com/thefraggle/mapflip)** – Leitet Apple-Maps-Links auf Android automatisch an Google Maps weiter. Einmal einrichten, dann läuft es unsichtbar im Hintergrund. 🏆 *#2 Daily Winner bei Uneed*  
-*Lizenz:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3)  
-👉 **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[APK herunterladen](https://github.com/thefraggle/mapflip/releases)** | **[Quellcode](https://github.com/thefraggle/mapflip)**
+**[MapFlip](https://github.com/thefraggle/mapflip)** – Fängt Karten-Links (Apple Maps, Bing, OpenStreetMap, HERE, Waze) auf Android ab und leitet sie nahtlos an die favorisierte Navigations-App weiter (Google Maps, Waze, Organic Maps, OsmAnd). 🏆 *#2 Daily Winner bei Uneed*  
+*Lizenz:* MIT | *Stack:* Kotlin, Jetpack Compose (Material 3), FOSS Flavor (Zero Permissions) & Play Flavor (Aptabase)  
+👉 **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.goork.mapflip)** | **[APK herunterladen](https://github.com/thefraggle/mapflip/releases)** | **[Landingpage (goork.de/mapflip)](https://goork.de/mapflip/)** | **[Quellcode](https://github.com/thefraggle/mapflip)**
 
 **[Pulse](https://github.com/thefraggle/pulse)** – Eine moderne, selbst-hostbare Mentimeter-Alternative für Live-Umfragen und Wordclouds.  
 *Lizenz:* MIT | *Stack:* React (Vite), Tailwind CSS v4, Socket.io, Node.js/Express, Prisma (SQLite)  
@@ -32,6 +32,10 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 **[goork.de](https://goork.de)** – Mein zentraler App- und Service-Hub für öffentliche und private Projekte (FamWake, MapFlip, Pulse, Goork.it).  
 *Stack:* Vanilla HTML/CSS/JS (ohne Framework)  
 👉 **[goork.de besuchen](https://goork.de)**
+
+**[goork.it](https://goork.it)** – Schlanker URL-Shortener mit Wunsch-Aliasen, Auto-Expiry, Admin-Dashboard und n8n-API-Schnittstelle.  
+*Stack:* React (Vite), Tailwind CSS v4, Node.js/Express, Prisma (SQLite)  
+👉 **[goork.it besuchen](https://goork.it)**
 
 **[notthoff.org](https://notthoff.org)** – Meine digitale Visitenkarte im Linktree-Stil mit einem Dark-Glassmorphism-Design.  
 *Stack:* Vanilla HTML/CSS/JS (ohne Framework)  
@@ -54,10 +58,14 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 **Umami Analytics** – Selbstgehostete, datenschutzfreundliche Web-Analytics-Plattform ohne Cookies oder Consent-Banner für alle eigenen Webprojekte.  
 *Stack:* Umami, Next.js, PostgreSQL, Docker
 
+**Aptabase & TeleGoork Analytics** – Selbstgehostete, datenschutzfreundliche In-App-Telemetrie für mobile Apps auf Basis von ClickHouse & PostgreSQL (`telemetry-apps.goork.de`), aggregiert in einem eigenen Mobile-First PWA-Dashboard (`tele.goork.de`).  
+*Stack:* Aptabase, ClickHouse, PostgreSQL, Hono, PWA, Docker
+
 ---
 
 ### 🛠 Tech Stack & Tools
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
