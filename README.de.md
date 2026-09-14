@@ -12,9 +12,9 @@ Wenn ich nicht gerade an neuen Features schraube, findet man mich wahrscheinlich
 ### 📂 Projekte & Portfolio
 
 #### 🔓 Open Source
-**[SongFlip](https://github.com/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android & iOS zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
+**[SongFlip](https://github.com/thefraggle/songflip)** – Automatischer Zero-Click Musik-Link-Konverter für Android & iOS zwischen Spotify, Apple Music, YouTube Music, Tidal, Deezer, Amazon Music, SoundCloud & Bandcamp.  
 *Lizenz:* GPL-3.0 | *Stack:* Kotlin Multiplatform (KMP), Jetpack Compose, Swift, SwiftUI, Ktor, Firebase Cloud Functions, Aptabase  
-👉 **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.goork.songflip)** | **[iOS Beta (TestFlight)](https://testflight.apple.com/join/c2ceF8ZK)** | **[APK herunterladen](https://github.com/thefraggle/songflip/releases)** | **[Landingpage (songflip.link)](https://songflip.link)** | **[Quellcode](https://github.com/thefraggle/songflip)**
+👉 **[Bei Google Play herunterladen](https://play.google.com/store/apps/details?id=de.goork.songflip)** | **[iOS Beta (TestFlight)](https://testflight.apple.com/join/c2ceF8ZK)** | **[Landingpage (songflip.link)](https://songflip.link)** | **[Quellcode](https://github.com/thefraggle/songflip)**
 
 **[FamWake](https://github.com/thefraggle/familienwecker)** (Familienwecker) – Eine smarte Wecker-App, die den morgendlichen Stress einer Familie durch Struktur und Entspannung ersetzt. 🏆 *#3 Daily Winner bei Uneed*  
 *Lizenz:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, Aptabase, RevenueCat  
