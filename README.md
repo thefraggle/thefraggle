@@ -14,7 +14,7 @@ When I'm not tweaking new features, you'll probably find me at the next festival
 #### 🔓 Open Source
 **[SongFlip](https://github.com/thefraggle/songflip)** – Automatic, zero-click music link redirector for Android & iOS across Spotify, Apple Music, YouTube Music, Tidal, Deezer & Amazon Music.  
 *License:* GPL-3.0 | *Stack:* Kotlin Multiplatform (KMP), Jetpack Compose, Swift, SwiftUI, Ktor, Firebase Cloud Functions, Aptabase  
-👉 **[Download APK](https://github.com/thefraggle/songflip/releases)** | **Google Play (Closed Testing)** | **[Landing Page (songflip.link)](https://songflip.link)** | **[Source Code](https://github.com/thefraggle/songflip)**
+👉 **[Download on Google Play](https://play.google.com/store/apps/details?id=de.goork.songflip)** | **[iOS Beta (TestFlight)](https://testflight.apple.com/join/c2ceF8ZK)** | **[Download APK](https://github.com/thefraggle/songflip/releases)** | **[Landing Page (songflip.link)](https://songflip.link)** | **[Source Code](https://github.com/thefraggle/songflip)**
 
 **[FamWake](https://github.com/thefraggle/familienwecker)** (Family Alarm) – A smart alarm clock app designed to replace a family's morning stress with structure and relaxation. 🏆 *#3 Daily Winner on Uneed*  
 *License:* GPL-3.0 | *Stack:* Kotlin, Jetpack Compose, Swift, SwiftUI, Firebase Auth/Firestore/Cloud Functions, Aptabase, RevenueCat  
