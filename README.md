@@ -4,15 +4,15 @@
 
 ### Dad 1.0 | Generation X | T-Shirt & Tattoos | Coffee drinker
 
-Between home office, rock concerts, and gaming sessions, my heart beats for tinkering and building privacy-first tools. I build mobile apps under **[goork.de](https://goork.de)** — currently focusing on **SongFlip**, **FamWake**, and **MapFlip** — and publish my developer hub at **[notthoff.org](https://notthoff.org)**.
+Between home office, rock concerts, and gaming sessions, my heart beats for tinkering and building privacy-first tools. I build mobile apps under **[goork.de](https://goork.de)** — currently focusing on **SongFlip**, **FamWake**, and **MapFlip** — and collect all my links on my social hub at **[notthoff.org](https://notthoff.org)**.
 
-<a href="https://notthoff.org"><img src="https://img.shields.io/badge/notthoff.org-My_Hub-222222.svg?style=for-the-badge&logo=safari&logoColor=white" alt="notthoff.org" height="28" /></a> <a href="https://goork.de"><img src="https://img.shields.io/badge/goork.de-App_Studio-0F172A.svg?style=for-the-badge&logo=googleplay&logoColor=white" alt="goork.de" height="28" /></a> <a href="https://github.com/sponsors/thefraggle"><img src="https://img.shields.io/badge/Sponsor-%40thefraggle-EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="28" /></a>
+<a href="https://notthoff.org"><img src="https://img.shields.io/badge/notthoff.org-Social_Hub-222222.svg?style=for-the-badge&logo=safari&logoColor=white" alt="notthoff.org" height="28" /></a> <a href="https://goork.de"><img src="https://img.shields.io/badge/goork.de-App_Studio-0F172A.svg?style=for-the-badge&logo=googleplay&logoColor=white" alt="goork.de" height="28" /></a> <a href="https://github.com/sponsors/thefraggle"><img src="https://img.shields.io/badge/Sponsor-%40thefraggle-EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="28" /></a>
 
 ---
 
 ### 📂 Featured Apps & Open Source ([goork.de](https://goork.de))
 
-#### ⭐ [SongFlip](https://github.com/thefraggle/songflip) *(Priority #1)*
+#### ⭐ [SongFlip](https://github.com/thefraggle/songflip)
 > *“Sharing music with friends should be effortless. SongFlip removes platform friction so everyone can enjoy songs in their favorite player without extra clicks.”*
 
 Automatic, zero-click music & podcast link redirector for Android & iOS across **14+ services** (Spotify, Apple Music & Podcasts, YouTube Music, Tidal, Qobuz, Deezer, Amazon Music, SoundCloud, Bandcamp, Beatport, Audiomack, Idagio, Anghami, Pocket Casts).
@@ -46,7 +46,7 @@ All my apps are open source, ad-free, and built privacy-first without data track
 ---
 
 #### 🌐 Web Projects
-**[notthoff.org](https://notthoff.org)** – My central Linktree-style digital business card and developer hub with a dark glassmorphism design. (*Vanilla HTML/CSS/JS*)  
+**[notthoff.org](https://notthoff.org)** – My central Linktree-style digital business card and social hub with a dark glassmorphism design. (*Vanilla HTML/CSS/JS*)  
 **[goork.it](https://goork.it)** – Lightweight URL shortener featuring custom aliases, auto-expiry, admin dashboard, and n8n API integration. (*React, Tailwind CSS v4, Express, Prisma/SQLite*)  
 **[schlawinerdogs.de](https://schlawinerdogs.de)** – Responsive landing page for a dog muzzle consultancy. (*Vanilla HTML/CSS/JS*)
 
